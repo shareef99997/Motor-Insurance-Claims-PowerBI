@@ -5,7 +5,7 @@
 <p align="center">
     <b>Overview Page</b>  
     <br>
-    <img src="assets/screenshot/Overview.png" alt="Overview Page" width="800">
+    <img src="assets/screenshots/Overview.png" alt="Overview Page" width="800">
 </p>
 
 ---
@@ -29,7 +29,7 @@ This project delivers **deep insights into US motor insurance claims** from Janu
 <p align="center">
     <b>Data Model</b>  
     <br>
-    <img src="assets/screenshot/data model.png" alt="Data Model" width="800">
+    <img src="assets/screenshots/data model.png" alt="Data Model" width="800">
 </p>
 
 ---
@@ -47,7 +47,7 @@ This project delivers **deep insights into US motor insurance claims** from Janu
 ✅ Customer tenure trends with claim count & claim amount  
 
 <p align="center">
-    <img src="assets/screenshot/Customer Profile.png" alt="Customer Profile" width="800">
+    <img src="assets/screenshots/Customer Profile.png" alt="Customer Profile" width="800">
 </p>
 
 ### 🔹 3. Claims & Incidents  
@@ -55,7 +55,7 @@ This project delivers **deep insights into US motor insurance claims** from Janu
 ✅ Contacted authorities and state-wise breakdown  
 
 <p align="center">
-    <img src="assets/screenshot/Claims & Incident.png" alt="Claims & Incident" width="800">
+    <img src="assets/screenshots/Claims & Incident.png" alt="Claims & Incident" width="800">
 </p>
 
 ### 🔹 4. Vehicle Intelligence  
@@ -64,7 +64,7 @@ This project delivers **deep insights into US motor insurance claims** from Janu
 ✅ **Vehicle age vs loss trends**
 
 <p align="center">
-    <img src="assets/screenshot/Vehicle Inteligance.png" alt="Vehicle Intelligence" width="800">
+    <img src="assets/screenshots/Vehicle Inteligance.png" alt="Vehicle Intelligence" width="800">
 </p>
 
 ### 🔹 5. Fraud Detection  
@@ -73,7 +73,7 @@ This project delivers **deep insights into US motor insurance claims** from Janu
 ✅ Single-vehicle & multi-vehicle collisions linked to higher fraud
 
 <p align="center">
-    <img src="assets/screenshot/Fraud Detection.png" alt="Fraud Detection" width="800">
+    <img src="assets/screenshots/Fraud Detection.png" alt="Fraud Detection" width="800">
 </p>
 
 ---
